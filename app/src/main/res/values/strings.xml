@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">YouTubePlayLists</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="todo">TODO</string>
+    <string name="try_again">Try again</string>
+    <string name="description_text">Emotional Well-being end Healing Practices for Children</string>
+    <string name="playlist">Playlist</string>
+    <string name="video_series_text">32 video series</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="snippet_description">In this series, we break down the impact of displacement, instability, violence, and trauma in children, and offer exercises to support children in their healing journey.</string>
+    <string name="back">Back</string>
+    <string name="playlistText">Playlist</string>
+    <string name="backicon">backIcon</string>
+    <string name="play_btn">Play Button</string>
+</resources>
